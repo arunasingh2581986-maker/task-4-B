@@ -1,0 +1,30 @@
+.section{
+    width: 50vw;
+    height: 80vh;
+    justify-items: center;
+    padding-right: 25vw;
+    padding-left: 25vw;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+.box2{
+    width: 100%;
+    height: 100%;
+justify-items: center;
+align-items: center;
+object-fit: cover;
+}
+.box2 img{
+    width: 100%;
+    height: 100%;
+}
+.box1{
+    height: 70vh;
+    width: 50vw;
+}
+#btn{
+    width: 100%;
+    height: 60px;
+    font-size: xx-large;
+    background-image: linear-gradient(to right, yellow ,red);
+}
